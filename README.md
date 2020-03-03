@@ -14,3 +14,10 @@ It enables a flex context for all its direct children.
 By default the flex items(the children) are usually in order as they are placed,but the order property controls the order in which they appear in the flex container
 
 Flex items ie the children are primarily laid out either in horizontal rows or vertical columns.
+
+
+    row (default): left to right in ltr; right to left in rtl
+    row-reverse: right to left in ltr; left to right in rtl
+    column: same as row but top to bottom
+    column-reverse: same as row-reverse but bottom to top
+
