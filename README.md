@@ -4,4 +4,5 @@ a simple demo about flexbox and how it differs from the old traditional box meth
 
 Flexbox is pretty awesome and is certainly part of the future of layout. 
 
- container for our columns a flexbox display context,
+We will make a container for our columns a flexbox display context,and 
+all direct children of this element become flex items. 
