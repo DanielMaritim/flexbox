@@ -12,3 +12,5 @@ The parent is called the flex container while the children are called the flex i
 It enables a flex context for all its direct children.
 
 By default the flex items(the children) are usually in order as they are placed,but the order property controls the order in which they appear in the flex container
+
+Flex items ie the children are primarily laid out either in horizontal rows or vertical columns.
